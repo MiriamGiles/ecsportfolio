@@ -5,7 +5,7 @@ body {
 	font: Bradley Hand, cursive;
 }
 .homePage {
-	background: #CEFFF6;
+	background: #FFE4CF;
 }
 .container {
 	width: 960px;
@@ -23,7 +23,7 @@ body {
 	
 }
 .nav {
-	background: #FFE4CF;
+	background: #CEFFF6;
 	margin: 0px;
 	padding: 5;
 	float: left;
