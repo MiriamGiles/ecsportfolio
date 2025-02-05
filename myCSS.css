@@ -2,6 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	font: Bradley Hand, cursive;
 }
 .homePage {
 	background: #BFF2FF;
@@ -11,6 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
+	color:
 	background: #FFD7BD;
 	text-align: center;
 	margin: 0px;
